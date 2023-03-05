@@ -1,0 +1,15 @@
+{
+  "name": "data-algos",
+  "version": "1.0.0",
+  "description": "algos in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Samson",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
